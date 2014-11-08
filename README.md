@@ -83,7 +83,7 @@ snapshots as you progress through the steps.
 
 The machine should have about 2GB of ram and two processors.
 
-1. Install [Dragon NaturallySpeaking 13.0](http://www.nuance.com/for-individuals/by-product/dragon-for-pc/index.htm) to default location
+1. Install [Dragon NaturallySpeaking 13.0](http://www.nuance.com/dragon/index.htm) to default location
 2. Take a snapshot of the VM
 3. Download and install [Python 2.7.8 for x32](https://www.python.org/downloads/windows/)
 4. Run [get-pip.py](https://bootstrap.pypa.io/get-pip.py) to install pip
